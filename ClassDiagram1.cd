@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Game.GameGL.GameCell">
+    <Position X="5.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAQAQAAAAwACACoAAADgAAAAAAAAYAA=</HashCode>
+      <FileName>GameGL\GameCell.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="currentGameObject" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Game.GameGL.GameClass">
+    <Position X="1" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEQAAEAgAAAABAIAIAFAgAAACAAADAAAAAAAAAAA=</HashCode>
+      <FileName>GameGL\GameClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.GameGL.GameEnemy" Collapsed="true">
+    <Position X="11.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAEAAAAACACACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameGL\GameEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.GameGL.GameEnemyBoss">
+    <Position X="9.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAEAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>GameGL\GameEnemyBoss.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.GameGL.GameEnemyHorizontal">
+    <Position X="11.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameGL\GameEnemyHorizontal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.GameGL.GameEnemyRandom">
+    <Position X="13" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>GameGL\GameEnemyRandom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.GameGL.GameFire">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAABIAAAAAgCACCCAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameGL\GameFire.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.GameGL.GameGrid">
+    <Position X="3" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAEIAAABAAIACAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameGL\GameGrid.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="cells" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Game.GameGL.GameObject">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAABAAAAEgAAQBAAAEAAEAAAABA=</HashCode>
+      <FileName>GameGL\GameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.GameGL.GamePLayer">
+    <Position X="3.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAICAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameGL\GamePLayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Game.GameGL.GameDirection">
+    <Position X="12.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACACAAAAAAAI=</HashCode>
+      <FileName>GameGL\GameDirection.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Game.GameGL.GameObjectType">
+    <Position X="10.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAMAAAAAAQAAAABAAAAUAAAAAAABAAAAAAA=</HashCode>
+      <FileName>GameGL\GameObjectType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
